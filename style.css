@@ -68,3 +68,33 @@ width: 700px;
     height: 400px;
 
 }
+li{  
+    font: 1em sans-serif;
+list-style: none;
+padding-left: 0px;
+font-size: 18px ;
+
+}
+
+ol{
+    font: 1em sans-serif;
+font-size: 18px ;
+list-style: none;
+padding-left: 0px;
+
+}
+p{
+font: 1em sans-serif;
+font-size: 18px ;
+    align-self: auto;
+    align-content: flex-start;
+
+}
+div{
+
+  font: 1em sans-serif;
+font-size: 18px ;
+    align-self: auto;
+    align-content: flex-start;
+  
+}
